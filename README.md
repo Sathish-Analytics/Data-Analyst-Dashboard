@@ -1,2 +1,5 @@
-# Data-Analyst-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+## Sathish-data-analyst (Interactive Dashboard creation using MS Excel)
+
+## Project Objective
+The objective of this project is to analyze E-commerce sales and profit performance across different categories, years, months, and regions.
+
