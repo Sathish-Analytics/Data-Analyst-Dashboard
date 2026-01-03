@@ -20,3 +20,5 @@ This dashboard is designed to answer the following business questions:
 Dashboard Interaction <a href="https://github.com/Sathish-Analytics/Data-Analyst-Dashboard/blob/main/E-Commerence%20sales%20%26%20profit.png">View Dashboard</a>
 
 ## Dashboard
+<img width="1146" height="619" alt="E-Commerence sales   profit" src="https://github.com/user-attachments/assets/40eb5b4a-b202-451c-8beb-0dddef58b8d7" />
+
