@@ -18,3 +18,5 @@ This dashboard is designed to answer the following business questions:
 *How do filters like Category, Year, and Month impact overall performance?
 
 Dashboard Interaction <a href="https://github.com/Sathish-Analytics/Data-Analyst-Dashboard/blob/main/E-Commerence%20sales%20%26%20profit.png">View Dashboard</a>
+
+##Dashboard
