@@ -8,17 +8,33 @@ The objective of this project is to analyze E-commerce sales and profit performa
 
 ## Project Questions(KPIs)
 This dashboard is designed to answer the following business questions:
-*What is the total sales and total profit generated?
-*Which product categories contribute the most to sales?
-*How does profit vary year-wise across categories?
-*Which customers generate the highest profit?
-*What is the monthly sales trend throughout the year?
-*Which states/regions have the highest sales?
-*How does customer count change year-wise?
-*How do filters like Category, Year, and Month impact overall performance?
+* What is the total sales and total profit generated?
+* Which product categories contribute the most to sales?
+* How does profit vary year-wise across categories?
+* Which customers generate the highest profit?
+* What is the monthly sales trend throughout the year?
+* Which states/regions have the highest sales?
+* How does customer count change year-wise?
+* How do filters like Category, Year, and Month impact overall performance?
 
 Dashboard Interaction <a href="https://github.com/Sathish-Analytics/Data-Analyst-Dashboard/blob/main/E-Commerence%20sales%20%26%20profit.png">View Dashboard</a>
 
 ## Dashboard
 <img width="1146" height="619" alt="E-Commerence sales   profit" src="https://github.com/user-attachments/assets/40eb5b4a-b202-451c-8beb-0dddef58b8d7" />
 
+## Project Insights
+* Technology category contributes the highest sales and profit, making it the top-performing category.
+* Office Supplies shows consistent sales every year, indicating stable demand.
+* Furniture category generates comparatively lower profit due to higher costs.
+* A small group of top customers contributes a significant portion of total profit, highlighting customer concentration.
+* Certain states dominate sales, indicating strong regional markets.
+* Customer count increases year by year, showing business growth and customer retention.
+* Category, year, and month filters clearly show how performance varies under different conditions.
+
+## Conclusion
+This E-Commerce Sales & Profit Dashboard provides a comprehensive view of business performance by combining sales, profit, customer, time, and regional analysis in a single interactive platform.
+* The dashboard enables stakeholders to:
+* Quickly monitor key performance indicators
+* Identify profitable categories and customers
+* Understand sales trends and seasonal patterns
+* Make data-driven strategic decisions
